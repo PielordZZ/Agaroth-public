@@ -1,0 +1,34 @@
+{
+  "name": "agaroth",
+  "title": "Agaroth",
+  "description": "<p>The world is in apparent peace while the barriers between planes weaken threatening everyone within</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "themadcartographer-or-urbanex-mod-tiles",
+      "label": "TheMADCartographer | UrbanEx Mod Tiles",
+      "path": "packs/themadcartographer-or-urbanex-mod-tiles.db",
+      "private": false,
+      "entity": "Actor",
+      "package": "world",
+      "system": "pf2e"
+    }
+  ],
+  "system": "pf2e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "nextSession": "2020-10-20T23:30:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.17.1.8615"
+}

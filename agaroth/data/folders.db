@@ -1,0 +1,19 @@
+{"_id":"3RJAcWIK9F1qsNrc","name":"Tournament characters","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":"#db1414","flags":{}}
+{"_id":"AVezmq9iikWQO1mk","name":"cities","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Reference items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#41adaf","_id":"EY6kNOGS7P6Jo9w8"}
+{"_id":"IGxWfvArOS7HfPCV","name":"Monsters","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#296116"}
+{"name":"The Shadow Realm","type":"Actor","sort":600000,"flags":{},"parent":"zFM5gh2SF3ucDkwn","sorting":"a","color":"","_id":"IQbi4G5DiGhFMNKi"}
+{"_id":"JeB3gBLr3U8zHkHJ","name":"battle maps","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"active items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"KzVghn9u3aNwjEH9"}
+{"name":"dead items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"bnnety3AELOle1p0"}
+{"name":"TheMADCartographer | Summer Bundle","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"eYYaPZhpAJxwlwDb"}
+{"name":"NPC's","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#8080c0","_id":"eaz9C1IJYTgumSiN"}
+{"_id":"fQQJamVxrPXkzG6i","name":"loot","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#c76a00","flags":{}}
+{"name":"Potential characters","type":"Actor","sort":700000,"flags":{},"parent":"zFM5gh2SF3ucDkwn","sorting":"a","color":"","_id":"gIZcsYhyGFOcl6l2"}
+{"_id":"hFJgsAeM4eumQGmx","name":"ambiance","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"lOdtCEI28bWpNGsD","name":"animal companions","type":"Actor","sort":500000,"flags":{},"parent":"zFM5gh2SF3ucDkwn","sorting":"a","color":""}
+{"_id":"oqBTUTvlEgXAE8ND","name":"maps","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Samad's logs","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"sSRCL6Ri50DITRRS"}
+{"_id":"t7Zh2tfl0EmzJgYF","name":"dungeons/exploration","type":"Scene","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"TheMADCartographer | UrbanEx Mod Tiles","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"uxVChAc0tZvV35lv"}
+{"_id":"zFM5gh2SF3ucDkwn","name":"Characters","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#3228a6"}
